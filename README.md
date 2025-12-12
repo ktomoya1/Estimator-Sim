@@ -14,7 +14,7 @@
 ## 📊 Result
 シミュレーションの結果、**「不偏性（偏りがないこと）」を犠牲にしてでも、バイアスを受け入れた方がMSE（トータルの誤差）を劇的に小さくできる**ことを実証しました。
 
-![MSE Comparison Graph](mse_comparison.png)
+![MSE Comparison Graph](results/mse_comparison.png)
 
 * **Gray (MOM)**: 平均値ベースは収束が遅く、精度が低い。
 * **Blue (UMVUE)**: 最大値を使うことで劇的に改善するが、まだ改善の余地がある。
