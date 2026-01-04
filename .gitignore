@@ -9,3 +9,5 @@ src/*.o
 # Python cache
 __pycache__/
 *.pyc
+
+.vscode/
